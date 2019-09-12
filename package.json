@@ -1,0 +1,19 @@
+{
+  "name": "gojek-yarzcode",
+  "version": "1.0.0",
+  "description": "Source created by YarzCode",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarzc0de/gojek-yarzcode.git"
+  },
+  "author": "YarzCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarzc0de/gojek-yarzcode/issues"
+  },
+  "homepage": "https://github.com/yarzc0de/gojek-yarzcode#readme"
+}
