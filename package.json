@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/yarzc0de/gojek-yarzcode/issues"
   },
-  "homepage": "https://github.com/yarzc0de/gojek-yarzcode#readme"
+  "homepage": "https://github.com/yarzc0de/gojek-yarzcode#readme",
+  "dependencies": {
+    "async-file": "^2.0.2",
+    "chalk": "^2.4.2",
+    "node-fetch": "^2.6.0",
+    "readline-sync": "^1.4.10"
+  }
 }
